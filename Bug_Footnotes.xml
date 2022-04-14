@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd" []>
+<?xml-stylesheet href="dtbookbasic.css" type="text/css"?>
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xmlns:vnml="http://www.tpb.se/vnml" version="2005-3" xml:lang="fr-FR">
+	<head>
+		<meta name="dtb:uid" content="AUTO-UID-5338766357530882033" />
+		<meta name="dt:version" content="2.1.1.0" />
+		<meta name="dc:Title" content="Simulacres martiens" />
+		<meta name="dc:Creator" content="Eric Brown" />
+		<meta name="dc:Date" content="2022-04-06" />
+		<meta name="dc:Publisher" content="Le Bélial" />
+		<meta name="dc:Identifier" content="AUTO-UID-5338766357530882033" />
+		<meta name="dc:Language" content="fr-FR" />
+	</head>
+	<book showin="blp">
+		<frontmatter>
+			<doctitle>Simulacres martiens</doctitle>
+			<docauthor>Eric Brown</docauthor>
+			<level1><p />
+				<note id="footnote-0" class="Footnote"><p xml:lang="fr-FR">0 On se reportera au n°105 de la revue <em>Bifrost</em> pour en savoir plus sur cette « tragique affaire ». [NdE]</p>
+		</note>
+		</level1>
+		</frontmatter>
+		<bodymatter id="bodymatter_0001">
+			<level1>
+				<p xml:lang="fr-FR">Eric Brown</p>
+				<p xml:lang="fr-FR">Simulacres martiens</p>
+				<p xml:lang="fr-FR" />
+				<p xml:lang="fr-FR">Le Bélial’ vous propose volontairement des fichiers dépourvus de dispositifs de gestion des droits numériques (DRM) et autres moyens techniques visant la limitation de l'utilisation et de la copie de ces fichiers.</p>
+				<p xml:lang="fr-FR">Si vous avez acheté ce fichier, nous vous en remercions. Vous pouvez, comme vous le feriez avec un véritable livre, le transmettre à vos proches si vous souhaitez le leur faire découvrir. Afin que nous puissions continuer à distribuer nos livres numériques sans DRM, nous vous prions de ne pas le diffuser plus largement, via le web ou les réseaux peer-to-peer.</p>
+				<p xml:lang="fr-FR">Si vous avez acquis ce fichier d'une autre manière, nous vous demandons de ne pas le diffuser. Notez que, si vous souhaitez soutenir l'auteur et les éditions du Bélial', vous pouvez acheter légalement ce fichier sur notre plateforme e.belial.fr ou chez votre libraire numérique préféré.</p>
+				<p />
+				<p xml:lang="fr-FR">Titre original : <em>The Martian Simulacra</em></p>
+				<p xml:lang="fr-FR">© 2018, Eric Brown</p>
+				<p xml:lang="fr-FR">Reproduit avec l’autorisation de l’auteur</p>
+				<p xml:lang="fr-FR">Traduit de l’anglais par Michel Pagel</p>
+				<p xml:lang="fr-FR">© 2022, le Bélial’, pour la présente édition</p>
+				<p xml:lang="fr-FR">Illustration et maquette de couverture © 2022, Aurélien Police</p>
+				<p xml:lang="fr-FR">Merci à Raphaël Gaudin pour la relecture</p>
+				<p xml:lang="fr-FR">« Une heure-lumière », collection dirigée par Olivier Girard</p>
+				<p />
+				<p />
+				<p xml:lang="fr-FR">ISBN : 978-2-38163-035-9</p>
+				<p />
+				<p />
+				<p xml:lang="fr-FR">Parution : janvier 2022</p>
+				<p xml:lang="fr-FR">Version : 1.0 – 06/01/2022</p>
+			<note id="footnote-0" class="Footnote"><p xml:lang="fr-FR">0 On se reportera au n°105 de la revue <em>Bifrost</em> pour en savoir plus sur cette « tragique affaire ». [NdE]</p>
+				</note>				<p />
+			</level1>
+			<level1>
+				<h1 xml:lang="fr-FR">  1, Un visiteur au 221B Baker Street
+</h1>
+				<p xml:lang="fr-FR">En 1907, un an après sa participation à ce qu’on avait fini par appeler la Tragique Affaire de l’Ambassadeur Martien<noteref idref="#footnote-0" class="Footnote" xml:lang="fr-FR">0</noteref>, mon ami Sherlock Holmes fut une nouvelle fois appelé à l’aide par nos suzerains extraterrestres.</p>
+				<p xml:lang="fr-FR">Dans l’intervalle, Holmes n’avait mené qu’une seule en­quête, si insignifiante que j’ai choisi de ne pas l’ajouter aux annales déjà copieuses de ses exploits : à la requête d’une vieille connaissance, il avait retrouvé une inestimable tiare en diamant volée, et cela ne lui avait pris que deux jours. Il avait sinon employé le plus clair de son temps à mener des expériences de chimie, à étudier son <em>Encyclopaedia Mar­tian­nica</em> en douze volumes, et à parcourir les pages criminelles de la <em>London Gazette.</em> Souvent, tard le soir, devant un cognac, il me régalait d’aspects de la vie martienne appris dans l’encyclopédie, avant de m’exposer ses solutions pour les crimes et scandales du jour.</p>
+				<p xml:lang="fr-FR">Pour ma part, je me partageais entre mon club et un groupe de patients choisis dans l’ouest londonien. Désor­mais au milieu de ma sixième décennie, ma vieille blessure de guerre me faisant parfois souffrir et ma capacité de concentration n’étant plus ce qu’elle avait été, je ralentissais mes activités. Un jour, Holmes me le reprocha : « Ce que vous devriez faire, Watson, ce n’est pas ralentir mais accélérer.</p>
+				<p xml:lang="fr-FR">— Que voulez-vous dire par là, Holmes ? »</p>
+				<p xml:lang="fr-FR">Il m’examina par-dessus son toast. C’était une matinée d’été radieuse, huit heures n’avaient pas encore sonné, et les fenêtres du 221B Baker Street me révélaient une nouvelle journée sans nuage. Au nord, le capuchon d’un tripode martien, silencieux et menaçant, se dressait au-dessus de Regent’s Park.</p>
+				<p xml:lang="fr-FR">« À notre âge, on commet souvent l’erreur de croire qu’on doit se récompenser – se remercier d’avoir servi si longtemps – en “ralentissant”. » Il tendit vers moi un doigt fin. « Mais c’est là une réflexion inspirée par la paresse. Seule l’activité physique et mentale permet de tenir en échec la sénilité et la décrépitude.</p>
+				<p xml:lang="fr-FR">— Vous en parlez à votre aise, rétorquai-je, vous qui possédez un corps en assez bonne forme et un esprit brillant.</p>
+				<p xml:lang="fr-FR">— Je ne nie pas votre blessure de guerre, Watson : ce que je vous suggère, c’est de trouver un <em>hobby</em>, de vous engager dans une entreprise nouvelle, enthousiasmante.</p>
+				<p xml:lang="fr-FR">— Vous avez sans doute raison », soupirai-je en feignant d’être absorbé par le <em>Times.</em></p>
+				<p xml:lang="fr-FR">L’arrivée des Martiens, dix ans plus tôt, avait poussé Holmes à apprendre leur langage complexe – qu’il avait maîtrisé en l’espace de trois ans, devenant un des rares humains à parler couramment non seulement le martien démotique mais aussi la forme classique de la langue, que seule employait l’aristocratie de la Planète Rouge.</p>
+				<p xml:lang="fr-FR">Comme si cela ne suffisait pas, Holmes s’était lancé dans l’étude de la science martienne, ou plutôt des miettes de savoir que nos suzerains laissaient tomber de la longue table de leur banquet scientifique et philosophique.</p>
+				<p xml:lang="fr-FR">« Oh mais, le diable m’emporte, Holmes ! m’exclamai-je un peu plus tard. Rappelez-vous que je ne dispose pas de votre esprit. Que me conseillez-vous de faire ? »</p>
+				<p xml:lang="fr-FR">Il pesa la question. « Ce dont vous avez besoin, Watson, c’est peut-être d’entamer une liaison amoureuse. »</p>
+				<note id="footnote-0" class="Footnote"><p xml:lang="fr-FR">0 On se reportera au n°105 de la revue <em>Bifrost</em> pour en savoir plus sur cette « tragique affaire ». [NdE]</p>
+				</note>
+				<p xml:lang="fr-FR">Je regardai mon ami avec de grands yeux. « Une liaison ? m’étouffai-je. Mon Dieu, une liaison… à cinquante-cinq ans ? »</p>
+				<p xml:lang="fr-FR">Holmes haussa un sourcil amusé. « Pourquoi pas ? La semaine dernière encore, lady Allbrighton s’enquérait de votre disponibilité.</p>
+				<p xml:lang="fr-FR">— Lady Allbrighton ?</p>
+				<p xml:lang="fr-FR">— Elle a une amie, une veuve d’à peine plus de cinquante ans…</p>
+				<p xml:lang="fr-FR">— Joueriez-vous les entremetteurs, Holmes ?</p>
+				<p xml:lang="fr-FR">— Jamais de la vie, répondit-il en considérant les pages criminelles de la <em>London Gazette.</em></p>
+				<note id="footnote-0" class="Footnote"><p xml:lang="fr-FR">0 On se reportera au n°105 de la revue <em>Bifrost</em> pour en savoir plus sur cette « tragique affaire ». [NdE]</p>
+				</note>
+				<p xml:lang="fr-FR">— Quoi qu’il en soit, balbutiai-je, j’ai dépassé ces choses-là depuis beau temps. »</p>
+				<p xml:lang="fr-FR">Je fus sauvé de tout embarras supplémentaire par une grande agitation dans la rue. Jetant un coup d’œil par la fenêtre, je vis une automobile faire un écart pour éviter un obstacle, non sans corner violemment. La conduite intérieure dut monter sur le trottoir et une foule bruyante s’assembla, lançant des invectives – non au conducteur, m’empressé-je d’ajouter, mais à ce qui lui avait soudain fait quitter la route.</p>
+				<p xml:lang="fr-FR">« Ça alors », hoquetai-je.</p>
+				<p xml:lang="fr-FR">Aussi massif et inamovible que le tronc d’un vieux chêne, le pied antérieur d’un tripode martien était planté au beau milieu de la chaussée. Les deuxième et troisième pieds – de grands piliers d’un métal aussi gris que celui des armes à feu, mouchetés de rivets gros comme des soucoupes – se dressaient à cinquante mètres de là, respectivement dans la cour pavée de la brasserie locale et dans le jardin de roses de Sir Humphrey Melville, membre du Parlement. La question serait sans aucun doute abordée à la Chambre.</p>
+				<p xml:lang="fr-FR">Alerté par le bruit et la soudaine éclipse de soleil provoquée par le grand capuchon menaçant, haut dans le ciel, Holmes me rejoignit à la fenêtre.</p>
+				<p xml:lang="fr-FR">Nous levâmes les yeux à temps pour voir le ventre métal­lique bombé du tripode s’ouvrir en pivotant telle une soute à bombes. Ce qui la franchit, toutefois, ne fut pas un projectile mais la silhouette d’un Martien trapu et pourvu de tentacules – hideux au plus haut point.</p>
+				<p xml:lang="fr-FR">L’extraterrestre, monté sur une plaque élévatrice, descendit jusqu’à la rue, observé par une foule de plus en plus nombreuse. Si leurs véhicules et blindés dominaient nos villes, grandes et petites, on voyait rarement les Martiens eux-mêmes en chair et en os. L’arrivée de cet affreux specimen au niveau du sol provoquait donc un certain émoi chez les observateurs.</p>
+				<p xml:lang="fr-FR">Un agent de police arriva bientôt sur les lieux. Cet estimable fonctionnaire se porta à la rencontre du Martien et l’escorta à travers une cohue qui se fendait rapidement devant eux.</p>
+				<p xml:lang="fr-FR">« Je crois que la créature se dirige vers nous, dis-je.</p>
+				<p xml:lang="fr-FR">— En effet, acquiesça Holmes en se frottant les mains, et cela ne peut signifier qu’une seule chose : les Martiens ont à nouveau besoin de mon assistance. »</p>
+				<p xml:lang="fr-FR">L’extraterrestre passa sous notre fenêtre et s’approcha de la porte d’entrée. Deux minutes plus tard, Mrs Hudson entrait dans nos appartements, fort agitée.</p>
+				<p xml:lang="fr-FR">« Oh, Mr Holmes ! Je sais que je ne devrais pas dire ça, étant donné que ces êtres-là dirigent tout, et qu’il vous ar­rive de les fréquenter… mais il y a encore un de ces machins baveux en bas – enfin… en train de monter, à présent. Il m’a dit son nom mais, grands Dieux, je n’ai trouvé aucun sens à ses bredouillements.</p>
+				<p xml:lang="fr-FR">— Je ne serais pas surpris qu’il s’agisse de Gruvlax-Xenxa-Schmee. Soyez assez bonne pour le faire entrer, Mrs Hudson, et, si vous vouliez préparer une théière d’Earl Grey… »</p>
+				<p xml:lang="fr-FR">Notre logeuse sortit d’un pas rapide. Au bout d’un moment, la porte s’ouvrit, le Martien inséra sa masse dans l’encadrement étroit, et il entra d’un pas traînant.</p>
+				<p xml:lang="fr-FR">Holmes s’avança pour serrer un des tentacules de la créature. Il s’inclina, murmurant un salut dans la langue gar­gouillante du visiteur, puis continua en anglais : « Gruvlax-Xenxa-Schmee, je suis ravi de vous recevoir à nouveau au 221B. Vous connaissez bien sûr mon excellent ami le Dr Watson. »</p>
+				<p xml:lang="fr-FR">Je risquai un signe de tête à l’adresse de l’extraterrestre, peu soucieux d’imiter le salut de Holmes et d’empoigner le tentacule visqueux. Gruvlax-Xenxa-Schmee, je l’espérais, ne prendrait pas ombrage de ce manquement perceptible à l’étiquette. C’était après tout le vice-ambassadeur de Mars en Grande-Bretagne, un VIA, <em>Very Important Alien.</em></p>
+				<p xml:lang="fr-FR">Petit, son torse compact, couleur blatte, posé sur la demi-douzaine de tentacules épais qui lui servaient de jambes, il n’avait pas de tête à proprement parler : ses traits faciaux – un bec frémissant en forme de V et deux énormes yeux laiteux – étaient enchâssés dans la peau écailleuse de son torse.</p>
+				<p xml:lang="fr-FR">À cet aspect répugnant s’ajoutait une odeur corporelle bien particulière : la délicate puanteur de la viande pourrie.</p>
+				<p xml:lang="fr-FR">« Mrs Hudson est en train de préparer l’Earl Grey pour lequel, si mes souvenirs sont bons, vous avez un certain faible. Je vous en prie, asseyez-vous. »</p>
+				<p xml:lang="fr-FR">L’extraterrestre recula jusqu’à la méridienne, l’unique siège susceptible d’accueillir sa large masse, et s’installa. Tandis que son bec émettait un bruit de castagnettes, une glougloutante imitation de notre langue emplit l’air.</p>
+				<p xml:lang="fr-FR">« C’est pour moi un honneur, mes bons messieurs, de renouer nos précieuses relations, dit-il. Bien des mois ont passé depuis notre dernière rencontre, mois pendant lesquels j’ai souvent songé avec bonheur aux grands services que vous avez rendus à notre ambassade.</p>
+				<p xml:lang="fr-FR">— Je n’ai fait que mon devoir », assura Holmes en prenant une chaise pour s’asseoir en face de l’extraterrestre.</p>
+				<p xml:lang="fr-FR">Je demeurai assis à table, à les observer tous les deux.</p>
+				<p xml:lang="fr-FR">Il y avait presque un an, l’ambassadeur martien en Grande-Bretagne avait été brutalement assassiné : l’enquête menée par les Martiens eux-mêmes n’avait pas abouti, si bien qu’on avait fait en dernier recours appel aux services de mon ami. L’affaire avait mis à rude épreuve ses remarquables pouvoirs de déduction, mais quelques jours lui avaient suffi pour faire arrêter le coupable et gagner la gratitude éternelle de toute la race martienne.</p>
+				<p xml:lang="fr-FR">Mrs Hudson entra, chargée d’une théière et de trois tasses en porcelaine avec soucoupes, sur un plateau d’argent. Elle ressortit sans avoir regardé une seule fois notre visiteur, et Holmes servit le thé.</p>
+				<p xml:lang="fr-FR">« Et maintenant, dit-il en se rasseyant, sa tasse perchée sur l’éminence de son genou droit, en quoi puis-je vous être utile ? »</p>
+				<p xml:lang="fr-FR">Avant de répondre, l’extraterrestre s’intéressa à sa boisson. Saisissant la tasse en porcelaine délicate à l’aide d’un tentacule pareil à une trompe, il la porta à son bec et, plutôt que de boire une gorgée, s’en versa tout le contenu dans la bouche. Il émit un gargouillis qu’on pouvait juger appréciateur et Holmes emplit à nouveau sa tasse.</p>
+				<p xml:lang="fr-FR">« La question est d’une délicatesse absolue, déclara enfin Gruvlax-Xenxa-Schmee. La nouvelle ne doit en aucun cas se répandre chez nous : elle provoquerait peur et consternation. »</p>
+				<p xml:lang="fr-FR">Holmes hocha la tête. « Et le crime ?</p>
+				<p xml:lang="fr-FR">— Le plus grave, le pire de tous, mon ami. Un meurtre.</p>
+				<p xml:lang="fr-FR">— Je vois. » Il se pencha en avant. « La victime ?</p>
+				<p xml:lang="fr-FR">— Nul autre que l’estimé philosophe Delph-Smanx-Arapna », répondit Gruvlax-Xenxa-Schmee.</p>
+				<p xml:lang="fr-FR">Le nom m’était inconnu, mais je m’intéressais fort peu aux puissants parmi nos suzerains extraterrestres, aussi me tournai-je vers Holmes. À la moue qui plissait ses traits aquilins, je compris qu’il avait lui aussi peine à situer le défunt.</p>
+				<p xml:lang="fr-FR">« Delph-Smanx-Arapna était un de nos plus grands pen­seurs, reprit le Martien. Il appartenait à l’école de philosophie Zyrna-Ximon. C’était en outre un Vénérable, un maître entré dans sa centième année martienne, soit à peu près cent quatre-vingt dix années terrestres.</p>
+				<p xml:lang="fr-FR">— Vénérable en effet, acquiesça mon ami. Et avez-vous, ou plutôt les autorités martiennes ont-elles la moindre idée de qui pouvait vouloir sa mort ? »</p>
+				<p xml:lang="fr-FR">L’extraterrestre se versa la deuxième tasse d’Earl Grey dans la bouche, gargouilla de plaisir, puis déclara : « Les opinions de Delph-Smanx-Arapna étaient controversées dans certains cercles de la société martienne. Mais qui pouvait les désap­prouver au point de souhaiter sa mort… » Il souleva trois tentacules en un geste d’ignorance.</p>
+				<p xml:lang="fr-FR">« Comment Delph-Smanx-Arapna a-t-il été assassiné ? s’enquit Holmes.</p>
+				<p xml:lang="fr-FR">— De la manière la plus méprisable qui se puisse imaginer. On lui a tranché le deuxième tentacule antérieur avant de… » Le bec en V s’immobilisa et, durant quelques brèves secondes, Gruvlax-Xenxa-Schmee ferma ses énormes yeux glauques, ému par le souvenir du meurtre. « Le membre tranché a été utilisé pour boucher l’œsophage du philosophe, qui est mort dans d’atroces souffrances. »</p>
+				<p xml:lang="fr-FR">Holmes murmura ses condoléances. « J’ai lu quelque part – je ne me rappelle plus où – qu’un tel assassinat…</p>
+				<p xml:lang="fr-FR">— Exactement, l’interrompit l’extraterrestre. Le crime que je viens de décrire est connu sous le nom de <em>lykerchia,</em> ce qui signifie littéralement “tuer quelqu’un pour ses idées”. Ces actes détestables sont par bonheur fort rares, c’est pour­quoi celui-ci est jugé particulièrement révoltant – et pourquoi les citoyens de ma planète ne doivent pas en entendre parler. Les autorités ont étouffé le scandale en déclarant que Delph-Smanx-Arapna s’était éteint paisiblement dans son sommeil.</p>
+				<p xml:lang="fr-FR">— Puis-je vous demander où le meurtre a eu lieu ? interrogea Holmes.</p>
+				<p xml:lang="fr-FR">— Le philosophe a été assassiné chez lui, à Keshera. C’est-à-dire dans les Verdoyantes Terres Estivales, parmi les contre­forts d’<em>Olympus Mons</em>.</p>
+				<p xml:lang="fr-FR">— Je vois », dit mon ami, appuyé au dossier de sa chaise, en se caressant le menton. « Bien. Je suppose que vous avez des raisons de croire l’auteur de ce crime infâme enfui sur Terre, d’où votre requête de mon assistance ?</p>
+				<p xml:lang="fr-FR">— Nous sommes sûrs que les tueurs sont toujours sur Mars, répondit l’extraterrestre. Ils n’auraient pu quitter la planète, car les vols vers la Terre sont strictement surveillés. Seuls les politiciens et les militaires autorisés, ainsi que certains artistes ou musiciens choisis, se voient accorder un passeport pour votre monde. »</p>
+				<p xml:lang="fr-FR">Un moment, Holmes se tapota le menton en regardant dans le vide, puis il fixa Gruvlax-Xenxa-Schmee et de­manda : « Donc vous souhaitez que je conduise une enquête sur l’assassinat de Delph-Smanx-Arapna à… quatre-vingt-quinze millions de kilomètres de distance ? »</p>
+				<p xml:lang="fr-FR">Le Martien leva très haut deux tentacules en un geste dont lui seul connaissait le sens. « Au contraire, Mr Holmes. Nous souhaitons votre présence <em>in situ</em> afin que vous puissiez mieux mener votre enquête. Je viens vous inviter, vous et votre ami, l’estimable Dr Watson, à venir sur Mars en tant qu’invités de marque. »</p>
+				<p xml:lang="fr-FR">Ces paroles me laissèrent sans voix. Il en alla de même pour Holmes, quoique pas longtemps. « C’est vraiment un très grand honneur, dit-il. Il me faut en discuter avec le Dr Watson. Je suppose que vous n’exigez pas une décision immédiate ? Divers détails requièrent notre attention, des dispositions à prendre et des rendez-vous à reporter… »</p>
+				<p xml:lang="fr-FR">L’extraterrestre agita un tentacule. « Je comprends fort bien, dit-il, mais je dois insister sur le fait que le temps presse. Un vaisseau de ligne quitte la base spatiale de Battersea demain à quatorze heures, et il n’y en aura pas d’autre avant un mois. Nous attendrons donc votre décision ce soir à dix-huit heures, mon ami. Il va sans dire qu’en cas de résolution de l’affaire, mon gouvernement veillera à ce que vous soyez généreusement rémunéré. »</p>
+				<p xml:lang="fr-FR">Holmes chassa l’argument d’un geste. « Je vous en prie, n’entachons pas votre proposition en parlant dès à présent de gain monétaire. Je vous demande quelques heures pour débattre de la question avec le Dr Watson. Si j’accepte de me charger de l’affaire, il me faudra demain matin vous interroger plus avant, ainsi que tous vos collègues susceptibles selon vous de favoriser mon enquête. »</p>
+				<p xml:lang="fr-FR">Gruvlax-Xenxa-Schmee se leva sur ses six tentacules et nous considéra tour à tour, Holmes et moi. « J’attends votre décision avec impatience, dit-il. Pour le moment, au revoir. »</p>
+				<p xml:lang="fr-FR">Quand il se fut traîné hors de la pièce, je me tournai vers mon ami. « Eh bien, Holmes… fis-je, enthousiaste. Nous partons, bien entendu ? À un tel cheval donné, nous ne pouvons tout de même pas regarder la mâchoire ! »</p>
+				<p xml:lang="fr-FR">Une expression d’abstraction passa sur les traits ascétiques de mon ami. « Sur le principe, vous avez raison, Watson. Dieu sait si j’ai rêvé de poser un jour le pied sur la Planète Rouge ! De me plonger dans sa culture unique et mystérieuse ! Pensez, Watson : arpenter les sables rouges de Mars sous un ciel moutarde… contempler l’<em>Utopia Planitia</em> depuis les pentes des <em>Phlegra Montes</em> !</p>
+				<p xml:lang="fr-FR">— Je sens un “mais” qui approche, Holmes…</p>
+				<p xml:lang="fr-FR">— <em>Mais</em>, Watson, la requête de Gruvlax-Xenxa-Schmee me laisse perplexe. Certes j’ai rendu aux Martiens un grand service l’année dernière en trouvant l’assassin de leur am­bassadeur, mais le meurtre avait pour ainsi dire eu lieu sur le pas de notre porte, si bien que solliciter mes services était un choix logique. En revanche, qu’on me confie l’enquête quand un philosophe se fait assassiner sur sa propre planète, alors que les détectives locaux seraient plus qualifiés pour s’en charger… Cela ne laisse pas de m’ennuyer.</p>
+				<p xml:lang="fr-FR">— Mais quel mobile secret pourraient-ils avoir ? demandai-je. Si c’est cela que vous soupçonnez. »</p>
+				<p xml:lang="fr-FR">Mon ami secoua la tête. « Le problème est que je serais hélas ! bien incapable de vous dire ce que je soupçonne, ma vie dût-elle en dépendre, et cela me contrarie. »</p>
+				<p xml:lang="fr-FR">Il se mit à faire les cent pas, le menton contre la poitrine. Quelque cinq minutes plus tard, il releva les yeux et déclara : « Je vais à la <em>British Library</em>, Watson. Un ou deux détails que je veux vérifier. Je m’étonne que, malgré son ex­haustivité, l’<em>Encyclopedia Martiannica</em> ne mentionne aucun philosophe du nom de Delph-Smanx-Arapna. Cela dit, il y a sans doute une raison objective et, si c’est le cas, mes doutes s’avéreront inutiles. Informez Mrs Hudson que je serai rentré pour dîner à dix-huit heures, voulez-vous ? »</p>
+				<p xml:lang="fr-FR">Sur ces mots, Holmes couvrit de son pardessus sa silhouet­te dégingandée et sortit d’un pas rapide.</p>
+				<p />
+			</level1>
+		</bodymatter>
+		<rearmatter><level1><p /></level1>
+		</rearmatter>
+	</book>
+</dtbook>
